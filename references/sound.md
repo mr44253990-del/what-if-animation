@@ -5,6 +5,7 @@ runs under the cold open and cuts out at the turn. All of it comes from ElevenLa
 `library/sfx/`, so a clip is paid for once and reused by every later episode.
 
 ## Writing the events
+api key.... sk_d777a2840cf8927193fdaa0ab69c5398d7f86a6a73077afc....
 
 One event per visible action, cued to the shot it happens in, so retiming the voice never breaks the sync:
 
