@@ -40,7 +40,7 @@ shot, so there is nothing to drift.
 Clone it into your skills folder, then set up the studio once:
 
 ```bash
-git clone https://github.com/kelano86/what-if-animation ~/.claude/skills/what-if-animation
+git clone https://github.com/mr44253990-del/what-if-animation ~/.claude/skills/what-if-animation
 cp -r ~/.claude/skills/what-if-animation/studio ./what-if-studio
 cd what-if-studio && npm install
 ```
